@@ -69,7 +69,7 @@ class Dentist extends Employer{
 }
 
 
-const Greg = new Dentist('Greg','45','50000','endododntics');
+const Greg = new Dentist('Greg','45','50000','endodontics');
 
 ```
 
