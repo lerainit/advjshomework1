@@ -14,7 +14,7 @@ function Animal(name,species,phrase){
 
 this.name = name;
 this.species = species;
-this phrase = phrase;
+this.phrase = phrase;
 }
 
 Animal.prototype.sayHi = function(){
